@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-04-19T10:14:00 GMT+03:00" name="Default suite" finished-at="2025-04-19T10:14:04 GMT+03:00" duration-ms="3487">
+    <groups>
+    </groups>
+    <test started-at="2025-04-19T10:14:00 GMT+03:00" name="Default test" finished-at="2025-04-19T10:14:04 GMT+03:00" duration-ms="3487">
+      <class name="project.project.AppTest">
+        <test-method is-config="true" signature="Setup()[pri:0, instance:project.project.AppTest@640f11a1]" started-at="2025-04-19T10:14:01 GMT+03:00" name="Setup" finished-at="2025-04-19T10:14:01 GMT+03:00" duration-ms="561" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Setup -->
+        <test-method signature="ScrollTest()[pri:1, instance:project.project.AppTest@640f11a1]" started-at="2025-04-19T10:14:01 GMT+03:00" name="ScrollTest" finished-at="2025-04-19T10:14:03 GMT+03:00" duration-ms="2040" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ScrollTest -->
+        <test-method signature="FillingInputFields()[pri:2, instance:project.project.AppTest@640f11a1]" started-at="2025-04-19T10:14:03 GMT+03:00" name="FillingInputFields" finished-at="2025-04-19T10:14:04 GMT+03:00" duration-ms="821" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- FillingInputFields -->
+      </class> <!-- project.project.AppTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
